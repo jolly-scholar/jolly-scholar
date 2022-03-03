@@ -4,4 +4,4 @@
 - 🥽 a VR enthusiast.
 - 🌱 I like learning new things
 - 👀 I’m always looking for oppurtunities
-- 📫 Keep in touch!
+- 📫 https://www.linkedin.com/in/josephyounglee/
