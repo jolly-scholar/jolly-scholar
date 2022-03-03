@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Joseph Lee
-- 🔨 I’m interested in engineering
-- 🥽 I'm a VR enthusiast.
+- 🔨 an engineer
+- 💻 a programmer
+- 🥽 a VR enthusiast.
 - 🌱 I like learning new things
 - 👀 I’m always looking for oppurtunities
 - 📫 Keep in touch!
