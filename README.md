@@ -3,4 +3,4 @@
 - 🔨 an engineer
 - 💻 a programmer
 - 🥽 a VR enthusiast.
-- 🌱 I like learning new things
+- 🌱 I enjoy learning new things
