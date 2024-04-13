@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Lee
+- 👋 Hi, nice to e-meet you
 - 🔨 an engineer
 - 💻 a programmer
 - 🥽 a VR enthusiast.
